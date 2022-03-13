@@ -1,1 +1,1 @@
-# graduation-project
+# college-capstone-project
